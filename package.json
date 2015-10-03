@@ -1,0 +1,31 @@
+{
+  "name": "@nak2k/org",
+  "version": "0.0.1",
+  "description": "Customized org.js",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-org/issues"
+  },
+  "dependencies": {
+    "org": "^0.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-org",
+  "keywords": [
+    "org"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nak2k/node-org.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "lib"
+  ],
+  "engines": {
+    "node": ">= 4.0.0"
+  }
+}
